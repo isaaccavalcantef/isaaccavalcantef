@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo React.Js , PHP, MySQL
 - 👯 Estou procurando colaborar em projetos para web
 - 💬 Pergunte-me sobre qualquer coisa, responderei
-- 📫 Como chegar até mim: @isaaccavalcantef (links acima)
+- 📫 Como chegar até mim: @isaaccavalcantef (links abaixo)
 <!--
 - 😄 Pronomes: ...
 - ⚡ Curiosidade:  -->
