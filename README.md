@@ -1,19 +1,27 @@
+# Hello World, i'm Isaac!
+
+<div style="display: inline_block; margin: 0px;"><br>
+      <a href="https://www.instagram.com/isaaccavalcantef/?hl=pt-br" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/isaaccavalcantef/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+       <!--<a href="https://www.linkedin.com/in/isaaccavalcantef/" target="_blank">
+        <img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>-->
+  </div>
+  
+  #
+
+- 🔭 Atualmente estou trabalhando no front-end de sistemas 
+- 🌱 Atualmente estou aprendendo React.Js , PHP, MySQL
+- 👯 Estou procurando colaborar em projetos para web
+- 💬 Pergunte-me sobre qualquer coisa, responderei
+- 📫 Como chegar até mim: @isaaccavalcantef (links acima)
 <!--
-**isaaccavalcantef/isaaccavalcantef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronomes: ...
+- ⚡ Curiosidade:  -->
 
-Here are some ideas to get you started:
+# Sobre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Oi, eu sou o Isaac Cavalcante
   
   <div align="left">
     <a href="https://github.com/isaaccavalcantef">
@@ -30,12 +38,5 @@ Here are some ideas to get you started:
   
   ##
   
-   <div style="display: inline_block"><br>
-      <a href="https://www.instagram.com/isaaccavalcantef/?hl=pt-br" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/isaaccavalcantef/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-       <!--<a href="https://www.linkedin.com/in/isaaccavalcantef/" target="_blank">
-        <img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>-->
-  </div>
+   
 
