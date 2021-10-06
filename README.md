@@ -1,15 +1,4 @@
-# Hello World, i'm Isaac!
-
-<div style="display: inline_block; margin: 0px;"><br>
-      <a href="https://www.instagram.com/isaaccavalcantef/?hl=pt-br" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/isaaccavalcantef/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-       <!--<a href="https://www.linkedin.com/in/isaaccavalcantef/" target="_blank">
-        <img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>-->
-  </div>
-  
-  #
+# Olá, eu sou o Isaac Cavalcante
 
 - 🔭 Atualmente estou trabalhando no front-end de sistemas 
 - 🌱 Atualmente estou aprendendo React.Js , PHP, MySQL
@@ -20,9 +9,7 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade:  -->
 
-# Sobre
-
-  
+ ### Em resumo, eu:
   <div align="left">
     <a href="https://github.com/isaaccavalcantef">
     <img height="150vw" src="https://github-readme-stats.vercel.app/api?username=isaaccavalcantef&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
@@ -37,6 +24,15 @@
     </div>
   
   ##
+      
+  ### Meus links
   
-   
+   <div style="display: inline_block; margin: 0px;"><br>
+      <a href="https://www.instagram.com/isaaccavalcantef/?hl=pt-br" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/isaaccavalcantef/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+       <!--<a href="https://www.linkedin.com/in/isaaccavalcantef/" target="_blank">
+        <img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>-->
+  </div>
 
